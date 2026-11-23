@@ -1,0 +1,23 @@
+{
+  "@@locale": "ru",
+  "appTitle": "Здоровье",
+  "navHome": "Главная",
+  "navPlan": "План",
+  "navLabs": "Анализы",
+  "navMeds": "Лекарства",
+  "navProfile": "Профиль",
+  "screenOnboarding": "Приветствие",
+  "screenLogin": "Вход",
+  "screenHome": "Главная",
+  "screenPlan": "План осмотров",
+  "screenVisits": "Журнал визитов",
+  "screenNewVisit": "Новый визит",
+  "screenLabs": "Анализы",
+  "screenIndicator": "Динамика показателя",
+  "screenScan": "Сканирование бланка",
+  "screenReview": "Проверка данных",
+  "screenMeds": "Лекарства",
+  "screenSummary": "Сводка для врача",
+  "screenProfile": "Профиль и данные",
+  "placeholderInProgress": "Экран в разработке"
+}

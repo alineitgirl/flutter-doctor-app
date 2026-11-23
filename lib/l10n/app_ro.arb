@@ -1,0 +1,23 @@
+{
+  "@@locale": "ro",
+  "appTitle": "Sănătate",
+  "navHome": "Acasă",
+  "navPlan": "Plan",
+  "navLabs": "Analize",
+  "navMeds": "Medicamente",
+  "navProfile": "Profil",
+  "screenOnboarding": "Bun venit",
+  "screenLogin": "Autentificare",
+  "screenHome": "Acasă",
+  "screenPlan": "Planul controalelor",
+  "screenVisits": "Jurnalul vizitelor",
+  "screenNewVisit": "Vizită nouă",
+  "screenLabs": "Analize",
+  "screenIndicator": "Evoluția indicatorului",
+  "screenScan": "Scanarea buletinului",
+  "screenReview": "Verificarea datelor",
+  "screenMeds": "Medicamente",
+  "screenSummary": "Rezumat pentru medic",
+  "screenProfile": "Profil și date",
+  "placeholderInProgress": "Ecran în dezvoltare"
+}
